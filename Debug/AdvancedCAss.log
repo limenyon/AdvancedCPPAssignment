@@ -1,0 +1,10 @@
+﻿  AdvancedCAss.cpp
+C:\Users\User\Desktop\C++ ass\AdvancedCAss\AdvancedCAss\Consts.h(66,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\Desktop\C++ ass\AdvancedCAss\AdvancedCAss\AdvancedCAss.cpp(91,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\C++ ass\AdvancedCAss\AdvancedCAss\AdvancedCAss.cpp(147,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\C++ ass\AdvancedCAss\AdvancedCAss\AdvancedCAss.cpp(212,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\C++ ass\AdvancedCAss\AdvancedCAss\AdvancedCAss.cpp(334,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\C++ ass\AdvancedCAss\AdvancedCAss\AdvancedCAss.cpp(377,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\C++ ass\AdvancedCAss\AdvancedCAss\AdvancedCAss.cpp(390,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\C++ ass\AdvancedCAss\AdvancedCAss\AdvancedCAss.cpp(394,23): warning C4018: '<': signed/unsigned mismatch
+  AdvancedCAss.vcxproj -> C:\Users\User\Desktop\C++ ass\AdvancedCAss\Debug\AdvancedCAss.exe
